@@ -6,6 +6,7 @@
 
 ### 🎉 New features
 
+- [next] Add `Album.get(title)`
 - [next] Add Query ([#39559](https://github.com/expo/expo/pull/39559) by [@Wenszel](https://github.com/Wenszel))
 
 ### 🐛 Bug fixes
