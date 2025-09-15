@@ -10,6 +10,7 @@
 
 ### 🐛 Bug fixes
 
+- [next][android] Change default root directory to Pictures
 - [next] Fix `asset.getModificationTime` to return milliseconds
 
 ### 💡 Others
